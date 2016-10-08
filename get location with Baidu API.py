@@ -51,7 +51,7 @@ SID province place
 ###result###########
 """
 SID,place,status,lng,lat,precise,confidence,level,url
-1002,华安县城关后山,0,117.54380455,24.9186880946,0,14,区县,http://api.map.baidu.com/geocoder/v2/?ak=ZLzGo9cxxpMLlKDr8GzMsSfmwZYkmRsS&callback=renderOption&output=json&address=福建省华安县城关后山
-1004,诏安县红星农场,0,117.132941957,23.8740407254,0,14,区县,http://api.map.baidu.com/geocoder/v2/?ak=ZLzGo9cxxpMLlKDr8GzMsSfmwZYkmRsS&callback=renderOption&output=json&address=福建省诏安县红星农场
-1006,诏安县汾水关,0,117.087219274,23.6877183971,0,50,UNKNOWN,http://api.map.baidu.com/geocoder/v2/?ak=ZLzGo9cxxpMLlKDr8GzMsSfmwZYkmRsS&callback=renderOption&output=json&address=福建省诏安县汾水关
+1002,华安县城关后山,0,117.54380455,24.9186880946,0,14,区县,http://api.map.baidu.com/geocoder/v2/?ak=ZsSfmwZYkmRsS&callback=renderOption&output=json&address=福建省华安县城关后山
+1004,诏安县红星农场,0,117.132941957,23.8740407254,0,14,区县,http://api.map.baidu.com/geocoder/v2/?ak=ZLxpMLlKDr8GzMsSfmwZYkmRsS&callback=renderOption&output=json&address=福建省诏安县红星农场
+1006,诏安县汾水关,0,117.087219274,23.6877183971,0,50,UNKNOWN,http://api.map.baidu.com/geocoder/v2/?ak=ZLzGo9cxxpMsS&callback=renderOption&output=json&address=福建省诏安县汾水关
 """
